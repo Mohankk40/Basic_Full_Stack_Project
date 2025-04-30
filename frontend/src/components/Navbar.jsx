@@ -23,7 +23,7 @@ const Navbar = () => {
         >
           <Link to={"/"}>Product Store 🛒</Link>
         </Text>
-        <HStack spacing={2} aligntItems={"center"}>
+        <HStack spacing={2} alignItems={"center"}>
           <Link to="/create">
             <Button>
               <PlusSquareIcon fontSize={20} />
