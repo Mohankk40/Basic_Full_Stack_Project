@@ -29,7 +29,7 @@ This page allows users to add new products with a name, price, and image.
 ### **Display Product Page**
 This page lists all added products, allowing users to update or delete them.
 
-![Display Page](git_images/product_page.png)
+![Display Page](git_image/product_page.png)
 
 ---
 
