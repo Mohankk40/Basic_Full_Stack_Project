@@ -50,5 +50,5 @@ This page lists all added products, allowing users to update or delete them.
 - **Environment Variables:** Dotenv (`dotenv`)
 - **Development Tools:** Nodemon (`nodemon`), Cross-env (`cross-env`)
 
-🤝 Contributions
+## 🤝 Contributions
 Feel free to contribute! Open a pull request if you'd like to enhance any feature.
