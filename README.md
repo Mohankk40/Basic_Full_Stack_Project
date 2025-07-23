@@ -1,5 +1,3 @@
-# Basic Full Stack Project
-
 # 🛍️ Product Store – MERN Stack Application
 
 A full-stack eCommerce-style web application built using the **MERN stack** (MongoDB, Express, React, Node.js). The Product Store allows users to **create, read, update, and delete** (CRUD) products with a name/title, price, and image.
